@@ -1,7 +1,9 @@
 ALGORITHM insertion_sort
 VAR
+// this is the declartion of variables used in the problem 
     i , j , a , n = integer
     T : ARRAY_OF integer[n]
+  // this is the body section 
 BEGIN
     for i from 1 to n do
     a:=T[i]
